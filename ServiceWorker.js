@@ -4,6 +4,7 @@ const contentToCache = [
     "Build/cffa230cec04533b6ad738f98a30711f.js",
     "Build/c65cbb101beb912f7ca4347548cdabcb.data",
     "Build/7e6d658901a668c3eef6cc7c203ecc1b.wasm",
+
     "TemplateData/style.css"
 
 ];
